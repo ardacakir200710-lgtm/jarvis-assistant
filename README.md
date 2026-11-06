@@ -1,8 +1,3 @@
-Haklısın, iç içe geçen kod blokları yüzünden arayüz Markdown formatını bozmuş.
-
-Aşağıdaki tek bir kod kutusunun sağ üstündeki **Kopyala (Copy)** butonuna basarak `README.md` dosyanın içine doğrudan yapıştırabilirsin:
-
-```markdown
 # 🤖 Jarvis - Offline Local AI Desktop Assistant
 
 Jarvis is a fully offline, voice- and text-controlled Python desktop AI assistant capable of automating system-level tasks and reading/editing code in a secure sandbox environment.
@@ -106,4 +101,3 @@ Jarvis runs tools capable of interacting with your operating system. Safety meas
 
 * **Arda Muhammed Çakır** - Computer Engineering Student
 
-```
